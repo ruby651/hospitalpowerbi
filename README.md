@@ -14,4 +14,5 @@ To enhance operational efficiency and provide actionable insights into emergency
 ##### Number of Patients Referred:
 - Count the number of patients referred to specific departments from the ER each day.
 - Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
-![image](https://github.com/user-attachments/assets/090f1db4-9a2f-4d9f-87ac-91bdbdcb4d6f)
+![image](https://github.com/user-attachments/assets/66b3040e-29b1-41e1-a440-b35569f2ed95)
+
